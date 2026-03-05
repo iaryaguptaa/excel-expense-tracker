@@ -28,3 +28,7 @@ Microsoft Excel
 - Data organization
 - Basic data analysis
 - Chart visualization
+
+## Project Screenshot
+
+![Expense Tracker](WhatsApp Image 2026-03-06 at 12.27.26 AM.jpeg)
